@@ -27,3 +27,5 @@ and open your browser on http://localhost:8001/
 If you made something with this code, please [share here](https://github.com/ellisonleao/clumsy-bird/issues/39) and i'll be happy to add your game into the list.
 
 Some thoughts about this code you can find on my blog post: http://ellisonleao.svbtle.com/clumsy-bird-an-open-source-flappy-bird-clone
+
+This is a new change.
